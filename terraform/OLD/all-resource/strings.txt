@@ -1,0 +1,569 @@
+KRM KIND: AccessContextManagerAccessLevel
+BULK EXPORT?: 
+EXPORT?: 
+IAM?: 
+
+KRM KIND: AccessContextManagerAccessPolicy
+BULK EXPORT?: 
+EXPORT?: 
+IAM?: x
+
+KRM KIND: AccessContextManagerServicePerimeter
+BULK EXPORT?: 
+EXPORT?: 
+IAM?: 
+
+KRM KIND: ArtifactRegistryRepository
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: x
+
+KRM KIND: BigQueryDataset
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: BigQueryJob
+BULK EXPORT?: 
+EXPORT?: x
+IAM?: 
+
+KRM KIND: BigQueryTable
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: x
+
+KRM KIND: BigtableAppProfile
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: BigtableGCPolicy
+BULK EXPORT?: 
+EXPORT?: 
+IAM?: 
+
+KRM KIND: BigtableInstance
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: x
+
+KRM KIND: BigtableTable
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: x
+
+KRM KIND: CloudBuildTrigger
+BULK EXPORT?: 
+EXPORT?: 
+IAM?: 
+
+KRM KIND: CloudIdentityGroup
+BULK EXPORT?: 
+EXPORT?: 
+IAM?: 
+
+KRM KIND: ComputeAddress
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: ComputeAddress
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: ComputeBackendBucket
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: x
+
+KRM KIND: ComputeBackendService
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: ComputeBackendService
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: ComputeDisk
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: x
+
+KRM KIND: ComputeDisk
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: x
+
+KRM KIND: ComputeExternalVPNGateway
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: ComputeFirewall
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: ComputeForwardingRule
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: ComputeForwardingRule
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: ComputeHTTPHealthCheck
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: ComputeHTTPSHealthCheck
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: ComputeHealthCheck
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: ComputeHealthCheck
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: ComputeImage
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: x
+
+KRM KIND: ComputeInstance
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: x
+
+KRM KIND: ComputeInstance
+BULK EXPORT?: x
+EXPORT?: 
+IAM?: x
+
+KRM KIND: ComputeInstanceGroup
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: ComputeInstanceTemplate
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: ComputeInterconnectAttachment
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: ComputeNetwork
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: ComputeNetworkEndpointGroup
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: ComputeNetworkPeering
+BULK EXPORT?: 
+EXPORT?: 
+IAM?: 
+
+KRM KIND: ComputeNodeGroup
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: ComputeNodeTemplate
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: ComputeProjectMetadata
+BULK EXPORT?: 
+EXPORT?: 
+IAM?: 
+
+KRM KIND: ComputeRegionNetworkEndpointGroup
+BULK EXPORT?: 
+EXPORT?: 
+IAM?: 
+
+KRM KIND: ComputeReservation
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: ComputeResourcePolicy
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: ComputeRoute
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: ComputeRouter
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: ComputeRouterInterface
+BULK EXPORT?: 
+EXPORT?: 
+IAM?: 
+
+KRM KIND: ComputeRouterNAT
+BULK EXPORT?: 
+EXPORT?: 
+IAM?: 
+
+KRM KIND: ComputeRouterPeer
+BULK EXPORT?: 
+EXPORT?: 
+IAM?: 
+
+KRM KIND: ComputeSSLCertificate
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: ComputeSSLCertificate
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: ComputeSSLPolicy
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: ComputeSecurityPolicy
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: ComputeSharedVPCHostProject
+BULK EXPORT?: 
+EXPORT?: 
+IAM?: 
+
+KRM KIND: ComputeSharedVPCServiceProject
+BULK EXPORT?: 
+EXPORT?: 
+IAM?: 
+
+KRM KIND: ComputeSnapshot
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: x
+
+KRM KIND: ComputeSubnetwork
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: x
+
+KRM KIND: ComputeTargetGRPCProxy
+BULK EXPORT?: 
+EXPORT?: x
+IAM?: 
+
+KRM KIND: ComputeTargetHTTPProxy
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: ComputeTargetHTTPProxy
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: ComputeTargetHTTPSProxy
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: ComputeTargetHTTPSProxy
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: ComputeTargetInstance
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: ComputeTargetPool
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: ComputeTargetSSLProxy
+BULK EXPORT?: 
+EXPORT?: x
+IAM?: 
+
+KRM KIND: ComputeTargetTCPProxy
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: ComputeTargetVPNGateway
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: ComputeURLMap
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: ComputeURLMap
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: ComputeVPNGateway
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: ComputeVPNTunnel
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: ContainerCluster
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: ContainerNodePool
+BULK EXPORT?: x
+EXPORT?: 
+IAM?: 
+
+KRM KIND: DataflowFlexTemplateJob
+BULK EXPORT?: 
+EXPORT?: 
+IAM?: 
+
+KRM KIND: DataflowJob
+BULK EXPORT?: 
+EXPORT?: 
+IAM?: 
+
+KRM KIND: DNSManagedZone
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: DNSPolicy
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: DNSRecordSet
+BULK EXPORT?: 
+EXPORT?: 
+IAM?: 
+
+KRM KIND: FirestoreIndex
+BULK EXPORT?: 
+EXPORT?: 
+IAM?: 
+
+KRM KIND: IAMCustomRole
+BULK EXPORT?: x
+EXPORT?: 
+IAM?: 
+
+KRM KIND: IAMServiceAccount
+BULK EXPORT?: x
+EXPORT?: 
+IAM?: x
+
+KRM KIND: IAMServiceAccountKey
+BULK EXPORT?: 
+EXPORT?: 
+IAM?: 
+
+KRM KIND: KMSCryptoKey
+BULK EXPORT?: x
+EXPORT?: 
+IAM?: x
+
+KRM KIND: KMSKeyRing
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: x
+
+KRM KIND: LoggingLogSink
+BULK EXPORT?: x
+EXPORT?: 
+IAM?: 
+
+KRM KIND: MemcacheInstance
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: MonitoringAlertPolicy
+BULK EXPORT?: x
+EXPORT?: 
+IAM?: 
+
+KRM KIND: MonitoringNotificationChannel
+BULK EXPORT?: 
+EXPORT?: 
+IAM?: 
+
+KRM KIND: PubSubSchema
+BULK EXPORT?: 
+EXPORT?: x
+IAM?: 
+
+KRM KIND: PubSubSubscription
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: x
+
+KRM KIND: PubSubTopic
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: x
+
+KRM KIND: RedisInstance
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: Folder
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: x
+
+KRM KIND: Project
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: x
+
+KRM KIND: ResourceManagerLien
+BULK EXPORT?: 
+EXPORT?: 
+IAM?: 
+
+KRM KIND: ResourceManagerPolicy
+BULK EXPORT?: 
+EXPORT?: 
+IAM?: 
+
+KRM KIND: SecretManagerSecret
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: x
+
+KRM KIND: SecretManagerSecretVersion
+BULK EXPORT?: x
+EXPORT?: 
+IAM?: 
+
+KRM KIND: ServiceDirectoryEndpoint
+BULK EXPORT?: 
+EXPORT?: x
+IAM?: 
+
+KRM KIND: ServiceDirectoryNamespace
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: x
+
+KRM KIND: ServiceDirectoryService
+BULK EXPORT?: 
+EXPORT?: x
+IAM?: x
+
+KRM KIND: ServiceNetworkingConnection
+BULK EXPORT?: 
+EXPORT?: 
+IAM?: 
+
+KRM KIND: Service
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: SourceRepoRepository
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: x
+
+KRM KIND: SpannerDatabase
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: x
+
+KRM KIND: SpannerInstance
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: x
+
+KRM KIND: SQLDatabase
+BULK EXPORT?: 
+EXPORT?: x
+IAM?: 
+
+KRM KIND: SQLInstance
+BULK EXPORT?: x
+EXPORT?: x
+IAM?: 
+
+KRM KIND: SQLSSLCert
+BULK EXPORT?: 
+EXPORT?: 
+IAM?: 
+
+KRM KIND: SQLUser
+BULK EXPORT?: 
+EXPORT?: 
+IAM?: 
+
+KRM KIND: StorageBucket
+BULK EXPORT?: x
+EXPORT?: 
+IAM?: x
+
+KRM KIND: StorageBucketAccessControl
+BULK EXPORT?: 
+EXPORT?: 
+IAM?: 
+
+KRM KIND: StorageDefaultObjectAccessControl
+BULK EXPORT?: 
+EXPORT?: 
+IAM?: 
+
+KRM KIND: StorageNotification
+BULK EXPORT?: 
+EXPORT?: 
+IAM?: 
+
+KRM KIND: StorageTransferJob
+BULK EXPORT?: 
+EXPORT?: 
+IAM?: 

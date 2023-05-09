@@ -1,0 +1,24 @@
+apiVersion: argoproj.io/v1alpha1
+kind: Application
+metadata:
+  name: online-boutique
+  namespace: argocd
+  finalizers:
+    - resources-finalizer.argocd.argoproj.io  
+spec:
+  project: default
+  source:
+    repoURL: asia-northeast3-docker.pkg.dev
+    chart: prj-sandbox-devops-9999/djlee-helm-chart/onlineboutique
+    targetRevision: "0.0.5"
+
+  destination:
+    namespace: onlineboutique
+    server: "https://kubernetes.default.svc"
+
+  syncPolicy:
+    automated:
+      prune: true
+      selfHeal: true
+    syncOptions:
+      - CreateNamespace=true
